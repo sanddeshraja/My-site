@@ -1,4 +1,5 @@
 body{
+    color: #40514E;
     margin: 0;
     text-align:center;
     font-family: 'Merriweather', serif;
@@ -9,7 +10,7 @@ body{
    background-color: #E4F9F5;
    position: relative;
    padding-top: 100px;
-   margin: 0px auto 10px auto;   
+     
 }
 h1{
   
@@ -82,7 +83,7 @@ hr{
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
-    font-family: Arial;
+    font-family: 'Montserrat', sans-serifsss;
     color: #ffffff;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
@@ -119,7 +120,7 @@ p{
 }
 .contact-me{
     width: 40%;
-    margin: 40px auto;
+    margin: 40px auto 60px;
 }
 .bottom-container{
 background-color: #66BFBF;
